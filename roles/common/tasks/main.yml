@@ -1,0 +1,4 @@
+---
+- name: Playbook ping pong test
+  ansible.builtin.ping:
+
